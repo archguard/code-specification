@@ -4,6 +4,7 @@
 
 ![前端规范（Angular）](frontend-angular.md)
 
+![Commit规范](commit-msg.md)  
 
 ## Tooling
 
